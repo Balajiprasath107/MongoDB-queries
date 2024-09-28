@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c95"
+  },
+  "studentId": 1,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c96"
+  },
+  "studentId": 2,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c97"
+  },
+  "studentId": 3,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c98"
+  },
+  "studentId": 4,
+  "Absent_dates": [
+    {
+      "$date": "2020-10-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c99"
+  },
+  "studentId": 5,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9a"
+  },
+  "studentId": 6,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9b"
+  },
+  "studentId": 7,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9c"
+  },
+  "studentId": 8,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9d"
+  },
+  "studentId": 9,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9e"
+  },
+  "studentId": 10,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827c9f"
+  },
+  "studentId": 11,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca0"
+  },
+  "studentId": 12,
+  "Absent_dates": [
+    {
+      "$date": "2020-09-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-11-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca1"
+  },
+  "studentId": 13,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca2"
+  },
+  "studentId": 14,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca3"
+  },
+  "studentId": 15,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca4"
+  },
+  "studentId": 16,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca5"
+  },
+  "studentId": 17,
+  "Absent_dates": [
+    {
+      "$date": "2020-08-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca6"
+  },
+  "studentId": 18,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca7"
+  },
+  "studentId": 19,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca8"
+  },
+  "studentId": 20,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ca9"
+  },
+  "studentId": 21,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827caa"
+  },
+  "studentId": 22,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cab"
+  },
+  "studentId": 23,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cac"
+  },
+  "studentId": 24,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cad"
+  },
+  "studentId": 25,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cae"
+  },
+  "studentId": 26,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827caf"
+  },
+  "studentId": 27,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb0"
+  },
+  "studentId": 28,
+  "Absent_dates": [
+    {
+      "$date": "2020-08-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-26T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb1"
+  },
+  "studentId": 29,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb2"
+  },
+  "studentId": 30,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb3"
+  },
+  "studentId": 31,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb4"
+  },
+  "studentId": 32,
+  "Absent_dates": [
+    {
+      "$date": "2020-10-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb5"
+  },
+  "studentId": 33,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb6"
+  },
+  "studentId": 34,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb7"
+  },
+  "studentId": 35,
+  "Absent_dates": [
+    {
+      "$date": "2020-05-25T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-06-15T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb8"
+  },
+  "studentId": 36,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cb9"
+  },
+  "studentId": 37,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cba"
+  },
+  "studentId": 38,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cbb"
+  },
+  "studentId": 39,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cbc"
+  },
+  "studentId": 40,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cbd"
+  },
+  "studentId": 41,
+  "Absent_dates": [
+    {
+      "$date": "2020-08-12T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-16T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cbe"
+  },
+  "studentId": 42,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cbf"
+  },
+  "studentId": 43,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc0"
+  },
+  "studentId": 44,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc1"
+  },
+  "studentId": 45,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc2"
+  },
+  "studentId": 46,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc3"
+  },
+  "studentId": 47,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc4"
+  },
+  "studentId": 48,
+  "Absent_dates": [
+    {
+      "$date": "2020-10-05T00:00:00.000Z"
+    },
+    {
+      "$date": "2020-10-06T00:00:00.000Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc5"
+  },
+  "studentId": 49,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc6"
+  },
+  "studentId": 50,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc7"
+  },
+  "studentId": 51,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc8"
+  },
+  "studentId": 52,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cc9"
+  },
+  "studentId": 53,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cca"
+  },
+  "studentId": 54,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ccb"
+  },
+  "studentId": 55,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ccc"
+  },
+  "studentId": 56,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ccd"
+  },
+  "studentId": 57,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cce"
+  },
+  "studentId": 58,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ccf"
+  },
+  "studentId": 59,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd0"
+  },
+  "studentId": 60,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd1"
+  },
+  "studentId": 61,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd2"
+  },
+  "studentId": 62,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd3"
+  },
+  "studentId": 63,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd4"
+  },
+  "studentId": 64,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd5"
+  },
+  "studentId": 65,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd6"
+  },
+  "studentId": 66,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd7"
+  },
+  "studentId": 67,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd8"
+  },
+  "studentId": 68,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cd9"
+  },
+  "studentId": 69,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cda"
+  },
+  "studentId": 70,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cdb"
+  },
+  "studentId": 71,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cdc"
+  },
+  "studentId": 72,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cdd"
+  },
+  "studentId": 73,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cde"
+  },
+  "studentId": 74,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cdf"
+  },
+  "studentId": 75,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce0"
+  },
+  "studentId": 76,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce1"
+  },
+  "studentId": 77,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce2"
+  },
+  "studentId": 78,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce3"
+  },
+  "studentId": 79,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce4"
+  },
+  "studentId": 80,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce5"
+  },
+  "studentId": 81,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce6"
+  },
+  "studentId": 82,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce7"
+  },
+  "studentId": 83,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce8"
+  },
+  "studentId": 84,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ce9"
+  },
+  "studentId": 85,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cea"
+  },
+  "studentId": 86,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ceb"
+  },
+  "studentId": 87,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cec"
+  },
+  "studentId": 88,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827ced"
+  },
+  "studentId": 89,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cee"
+  },
+  "studentId": 90,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cef"
+  },
+  "studentId": 91,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf0"
+  },
+  "studentId": 92,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf1"
+  },
+  "studentId": 93,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf2"
+  },
+  "studentId": 94,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf3"
+  },
+  "studentId": 95,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf4"
+  },
+  "studentId": 96,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf5"
+  },
+  "studentId": 97,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf6"
+  },
+  "studentId": 98,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf7"
+  },
+  "studentId": 99,
+  "Absent_dates": "NIL"
+},
+{
+  "_id": {
+    "$oid": "66f6f3718666b356af827cf8"
+  },
+  "studentId": 100,
+  "Absent_dates": "NIL"
+}]

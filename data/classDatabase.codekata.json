@@ -1,0 +1,700 @@
+[{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c31"
+  },
+  "studentId": 1,
+  "problem_count": 22
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c32"
+  },
+  "studentId": 2,
+  "problem_count": 40
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c33"
+  },
+  "studentId": 3,
+  "problem_count": 55
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c34"
+  },
+  "studentId": 4,
+  "problem_count": 78
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c35"
+  },
+  "studentId": 5,
+  "problem_count": 29
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c36"
+  },
+  "studentId": 6,
+  "problem_count": 35
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c37"
+  },
+  "studentId": 7,
+  "problem_count": 10
+},
+{
+  "_id": {
+    "$oid": "66f6eccc8666b356af827c38"
+  },
+  "studentId": 8,
+  "problem_count": 89
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c39"
+  },
+  "studentId": 9,
+  "problem_count": 28
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3a"
+  },
+  "studentId": 10,
+  "problem_count": 22
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3b"
+  },
+  "studentId": 11,
+  "problem_count": 50
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3c"
+  },
+  "studentId": 12,
+  "problem_count": 41
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3d"
+  },
+  "studentId": 13,
+  "problem_count": 29
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3e"
+  },
+  "studentId": 14,
+  "problem_count": 12
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c3f"
+  },
+  "studentId": 15,
+  "problem_count": 63
+},
+{
+  "_id": {
+    "$oid": "66f6ed2d8666b356af827c40"
+  },
+  "studentId": 16,
+  "problem_count": 39
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c41"
+  },
+  "studentId": 17,
+  "problem_count": 83
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c42"
+  },
+  "studentId": 18,
+  "problem_count": 60
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c43"
+  },
+  "studentId": 19,
+  "problem_count": 88
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c44"
+  },
+  "studentId": 20,
+  "problem_count": 31
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c45"
+  },
+  "studentId": 21,
+  "problem_count": 52
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c46"
+  },
+  "studentId": 22,
+  "problem_count": 75
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c47"
+  },
+  "studentId": 23,
+  "problem_count": 88
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c48"
+  },
+  "studentId": 24,
+  "problem_count": 84
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c49"
+  },
+  "studentId": 25,
+  "problem_count": 8
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4a"
+  },
+  "studentId": 26,
+  "problem_count": 54
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4b"
+  },
+  "studentId": 27,
+  "problem_count": 52
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4c"
+  },
+  "studentId": 28,
+  "problem_count": 19
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4d"
+  },
+  "studentId": 29,
+  "problem_count": 19
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4e"
+  },
+  "studentId": 30,
+  "problem_count": 54
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c4f"
+  },
+  "studentId": 31,
+  "problem_count": 18
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c50"
+  },
+  "studentId": 32,
+  "problem_count": 4
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c51"
+  },
+  "studentId": 33,
+  "problem_count": 59
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c52"
+  },
+  "studentId": 34,
+  "problem_count": 12
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c53"
+  },
+  "studentId": 35,
+  "problem_count": 50
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c54"
+  },
+  "studentId": 36,
+  "problem_count": 18
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c55"
+  },
+  "studentId": 37,
+  "problem_count": 81
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c56"
+  },
+  "studentId": 38,
+  "problem_count": 17
+},
+{
+  "_id": {
+    "$oid": "66f6ef568666b356af827c57"
+  },
+  "studentId": 39,
+  "problem_count": 52
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c58"
+  },
+  "studentId": 40,
+  "problem_count": 3
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c59"
+  },
+  "studentId": 41,
+  "problem_count": 76
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5a"
+  },
+  "studentId": 42,
+  "problem_count": 82
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5b"
+  },
+  "studentId": 43,
+  "problem_count": 65
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5c"
+  },
+  "studentId": 44,
+  "problem_count": 41
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5d"
+  },
+  "studentId": 45,
+  "problem_count": 75
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5e"
+  },
+  "studentId": 46,
+  "problem_count": 27
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c5f"
+  },
+  "studentId": 47,
+  "problem_count": 31
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c60"
+  },
+  "studentId": 48,
+  "problem_count": 35
+},
+{
+  "_id": {
+    "$oid": "66f6ef7f8666b356af827c61"
+  },
+  "studentId": 49,
+  "problem_count": 51
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c62"
+  },
+  "studentId": 50,
+  "problem_count": 9
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c63"
+  },
+  "studentId": 51,
+  "problem_count": 54
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c64"
+  },
+  "studentId": 52,
+  "problem_count": 3
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c65"
+  },
+  "studentId": 53,
+  "problem_count": 7
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c66"
+  },
+  "studentId": 54,
+  "problem_count": 81
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c67"
+  },
+  "studentId": 55,
+  "problem_count": 55
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c68"
+  },
+  "studentId": 56,
+  "problem_count": 42
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c69"
+  },
+  "studentId": 57,
+  "problem_count": 19
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6a"
+  },
+  "studentId": 58,
+  "problem_count": 68
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6b"
+  },
+  "studentId": 59,
+  "problem_count": 10
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6c"
+  },
+  "studentId": 60,
+  "problem_count": 51
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6d"
+  },
+  "studentId": 61,
+  "problem_count": 66
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6e"
+  },
+  "studentId": 62,
+  "problem_count": 3
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c6f"
+  },
+  "studentId": 63,
+  "problem_count": 8
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c70"
+  },
+  "studentId": 64,
+  "problem_count": 45
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c71"
+  },
+  "studentId": 65,
+  "problem_count": 66
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c72"
+  },
+  "studentId": 66,
+  "problem_count": 45
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c73"
+  },
+  "studentId": 67,
+  "problem_count": 63
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c74"
+  },
+  "studentId": 68,
+  "problem_count": 39
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c75"
+  },
+  "studentId": 69,
+  "problem_count": 36
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c76"
+  },
+  "studentId": 70,
+  "problem_count": 84
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c77"
+  },
+  "studentId": 71,
+  "problem_count": 79
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c78"
+  },
+  "studentId": 72,
+  "problem_count": 74
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c79"
+  },
+  "studentId": 73,
+  "problem_count": 58
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7a"
+  },
+  "studentId": 74,
+  "problem_count": 70
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7b"
+  },
+  "studentId": 75,
+  "problem_count": 4
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7c"
+  },
+  "studentId": 76,
+  "problem_count": 17
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7d"
+  },
+  "studentId": 77,
+  "problem_count": 45
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7e"
+  },
+  "studentId": 78,
+  "problem_count": 84
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c7f"
+  },
+  "studentId": 79,
+  "problem_count": 69
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c80"
+  },
+  "studentId": 80,
+  "problem_count": 76
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c81"
+  },
+  "studentId": 81,
+  "problem_count": 57
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c82"
+  },
+  "studentId": 82,
+  "problem_count": 48
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c83"
+  },
+  "studentId": 83,
+  "problem_count": 69
+},
+{
+  "_id": {
+    "$oid": "66f6f01a8666b356af827c84"
+  },
+  "studentId": 84,
+  "problem_count": 43
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c85"
+  },
+  "studentId": 85,
+  "problem_count": 69
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c86"
+  },
+  "studentId": 86,
+  "problem_count": 38
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c87"
+  },
+  "studentId": 87,
+  "problem_count": 9
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c88"
+  },
+  "studentId": 88,
+  "problem_count": 14
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c89"
+  },
+  "studentId": 89,
+  "problem_count": 48
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8a"
+  },
+  "studentId": 90,
+  "problem_count": 59
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8b"
+  },
+  "studentId": 91,
+  "problem_count": 26
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8c"
+  },
+  "studentId": 92,
+  "problem_count": 80
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8d"
+  },
+  "studentId": 93,
+  "problem_count": 5
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8e"
+  },
+  "studentId": 94,
+  "problem_count": 21
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c8f"
+  },
+  "studentId": 95,
+  "problem_count": 34
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c90"
+  },
+  "studentId": 96,
+  "problem_count": 49
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c91"
+  },
+  "studentId": 97,
+  "problem_count": 46
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c92"
+  },
+  "studentId": 98,
+  "problem_count": 84
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c93"
+  },
+  "studentId": 99,
+  "problem_count": 50
+},
+{
+  "_id": {
+    "$oid": "66f6f0438666b356af827c94"
+  },
+  "studentId": 100,
+  "problem_count": 68
+}]
